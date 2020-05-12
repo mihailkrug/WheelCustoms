@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wheel Customs</string>
+    <string name="facebook_app_id">272864650422124</string>
+    <string name="fb_login_protocol_scheme">fb272864650422124</string>
+</resources>
